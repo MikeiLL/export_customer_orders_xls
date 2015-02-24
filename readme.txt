@@ -6,7 +6,7 @@ Developed by IRS Software:
 
 opencartsupport@irssoft.com
 
-For use with PHPExcel http://www.codeplex.com/PHPExcel
+For use with PHPExcel http://www.codeplex.com/PHPExcel, the directory of which should be in system/library.
 
 Admin Login :
 
