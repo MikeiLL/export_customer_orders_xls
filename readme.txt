@@ -2,6 +2,11 @@
 	Read Me : Export Excel or CSV
 ===============================================================================================
 
+Developed by IRS Software:
+
+opencartsupport@irssoft.com
+
+For use with PHPExcel http://www.codeplex.com/PHPExcel
 
 Admin Login :
 
